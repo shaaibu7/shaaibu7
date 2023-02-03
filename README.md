@@ -36,6 +36,32 @@
 </div></br>
 
 
+<h3>Connect with me</h3>
+
+<div style="margin-top:10px">
+  <div>
+    <a  href="https://www.linkedin.com/in/alexogeto/" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
+    </a>
+    <a href="https://twitter.com/ALEX14809153" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    </a>
+  </div>
+</div>
+
+
+
+
+<h3>Reach me</h3>
+
+<p>
+  <a href="mailto:shaaibusuleiman9@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
+</p>
+
+
+
 # Github's Status
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaaibu7&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shaaibu" /></p>
