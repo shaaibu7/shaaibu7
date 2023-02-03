@@ -18,7 +18,7 @@
 </div></br><br>
 
 <div align="center">
-  <img src="./assets/program.gif" alt="pixel guy using computer" width="100%" height="200px"/><br>
+  <img src="./assets/program.gif" alt="pixel guy using computer" width="100%" height="400px"/><br>
 </div>
 
 <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
