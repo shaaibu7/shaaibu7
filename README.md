@@ -36,4 +36,14 @@
 </div></br>
 
 
+# Github's Status
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaaibu7&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="shaaibu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaaibu7&theme=tokyonight&show_icons=true&locale=en" alt="shaaibu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaaibu7&theme=tokyonight" alt="shaaibu" /></p>
+
+
+
 
