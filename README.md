@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Shaaibu+Suleiman.;I'm+glad+you+are+here!" alt="Typing SVG" align="middle" width="100%" />
 
 
-- 🔭 I’m currently enrolled at **Microverse**School
+- 🔭 I’m currently enrolled at **Microverse** School
 - 🌱 I’m currently working with Javascript, React, Ruby and Rails
 - 👯 I’m looking to collaborate on Javascript and React projects.
 - 😄 Pronouns: He/Him
@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,mongodb,ruby,rails" alt="skills actively"> <br> <br>
 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=reactnative, django, docker" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,kubernetes,nginx,flutter" alt="skills planning to learn logos">
 </div></br>
 
 
