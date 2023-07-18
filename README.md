@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Shaaibu+Suleiman.;I'm+glad+you+are+here!" alt="Typing SVG" align="middle" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Shaaibu+Suleiman.;A+passionate+software+engineer" alt="Typing SVG" align="middle" width="100%" />
 
 
 - 🔭 I’m currently enrolled at **Microverse** School
