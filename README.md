@@ -2,9 +2,9 @@
 
 
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
-- 🗃️ All of my projects are available at my <a href="https://shaaibu7.github.io/Portfolio-project/">portfolio</a>
-- 😄 Pronouns: He/Him
-- 📫 How to reach me <a href="mailto:shaaibusuleiman9@gmail.com">shaaibusuleiman9@gmail.com</a>
+- 🗃️ All of my projects are available at my <a href="https://shaaibu7.github.io/Portfolio-project/">portfolio</a>.
+- 😄 Pronouns: He/Him.
+- 📫 How to reach me <a href="mailto:shaaibusuleiman9@gmail.com">shaaibusuleiman9@gmail.com</a>.
 - ⚡ Fun fact: I love to learn new things in other fields of technology apart from software development.
 
 
