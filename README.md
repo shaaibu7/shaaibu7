@@ -1,9 +1,10 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Shaaibu+Suleiman.;A+passionate+software+engineer" alt="Typing SVG" align="middle" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=700&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+Shaaibu+Suleiman.;A+passionate+Software+Engineer" alt="Typing SVG" align="middle" width="100%" />
 
 
 - 🔭 I’m currently enrolled at **Microverse** School
 - 🌱 I’m currently working with Javascript, React, Ruby and Rails
 - 👯 I’m looking to collaborate on Javascript and React projects.
+- 🗃️ All of my projects are available at my <a href="https://shaaibu7.github.io/Portfolio-project/">portfolio</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to learn new things in other fields of technology apart from software development.
 
