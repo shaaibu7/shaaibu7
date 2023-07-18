@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Javascript and React projects.
 - 🗃️ All of my projects are available at my <a href="https://shaaibu7.github.io/Portfolio-project/">portfolio</a>
 - 😄 Pronouns: He/Him
+- 📫 How to reach me <a href="mailto:shaaibusuleiman9@gmail.com">shaaibusuleiman9@gmail.com</a>
 - ⚡ Fun fact: I love to learn new things in other fields of technology apart from software development.
 
 
@@ -27,10 +28,10 @@
 
 <h2></h2>
 <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,html,css,js,atom,vscode,linux,express" alt="skills" width="100%"/> <br> </br>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,webpack,html,css,js,react,redux,ruby,rails,atom,vscode,linux,express" alt="skills" width="100%"/> <br> </br>
 
 <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,mongodb,ruby,rails" alt="skills actively"> <br> <br>
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,mongodb" alt="skills actively"> <br> <br>
 
   <h3> <strong> Planning to Learn </strong></h3>
   <img src="https://skillicons.dev/icons?i=aws,docker,firebase,kubernetes,nginx,flutter" alt="skills planning to learn logos">
